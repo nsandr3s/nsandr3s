@@ -19,7 +19,7 @@ A continuación, se presenta una visión general de las tecnologías y herramien
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
 
-### Frameworks y Librerías
+### Frameworks
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-E03B2F?style=flat&logo=codeigniter&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
