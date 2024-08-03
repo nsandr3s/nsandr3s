@@ -29,6 +29,7 @@ Soy un apasionado desarrollador de software con experiencia en diversas tecnolog
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
 
 ### Herramientas
+[![GIT](https://img.shields.io/badge/-GIT-dc2d22?style=flat&logo=git&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
 [![Cloudinary](https://img.shields.io/badge/-Cloudinary-FFD200?style=flat&logo=cloudinary&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
 [![XAMPP](https://img.shields.io/badge/-XAMPP-FC5C5C?style=flat&logo=xampp&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
