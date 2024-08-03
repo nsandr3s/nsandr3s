@@ -10,8 +10,6 @@ Soy un apasionado desarrollador de software con experiencia en diversas tecnolog
 - 🚀 Enfocado en dominar backend para construir soluciones integrales.
 
 ## Mi Stack Tecnológico
-A continuación, se presenta una visión general de las tecnologías y herramientas que utilizo actualmente:
-
 ### Lenguajes de Programación
 [![PHP](https://img.shields.io/badge/-PHP-8E75B2?style=flat&logo=php&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
