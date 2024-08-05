@@ -6,7 +6,7 @@ Estoy ampliando mis conocimientos en las siguientes áreas:
 - ☁️ **Amazon Web Services (AWS):** Explorando servicios en la nube para implementar y gestionar soluciones escalables.
 
 ## Mi Stack Tecnológico
-<img src="https://skillicons.dev/icons?i=php,laravel,jquery,js,python,java,mysql,postgresql,mongodb,git,github,figma,wordpress,postman,idea,pycharm,vscode,notion" />
+<img src="https://skillicons.dev/icons?i=php,laravel,jquery,js,python,java,mysql,postgresql,mongodb,git,github,figma,wordpress,postman,idea,vscode,notion" />
 
 ## Contáctame
 Si tienes alguna pregunta, idea o posible colaboración en mente, no dudes en ponerte en contacto:
