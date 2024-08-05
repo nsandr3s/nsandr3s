@@ -1,46 +1,18 @@
 # Hola, soy Nicolás 👋
 
-¡Bienvenido a mi nuevo perfil de GitHub!
-
-Soy un apasionado desarrollador de software con experiencia en diversas tecnologías y lenguajes. Aquí podrás encontrar mis proyectos, habilidades y herramientas que utilizo en mi día a día.
-
-## Sobre mí
-- 🎓 Titulado en Ingeniería de Informática.
-- 👀 Interesado en mejorar mis habilidades en el desarrollo backend.
-- 🚀 Enfocado en dominar backend para construir soluciones integrales.
-
-## Mi Stack Tecnológico
-### Lenguajes de Programación
-[![PHP](https://img.shields.io/badge/-PHP-8E75B2?style=flat&logo=php&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-
-### Frameworks
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-E03B2F?style=flat&logo=codeigniter&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-
-### Bases de Datos
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-
-### Herramientas
-[![GIT](https://img.shields.io/badge/-GIT-dc2d22?style=flat&logo=git&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-[![Cloudinary](https://img.shields.io/badge/-Cloudinary-FFD200?style=flat&logo=cloudinary&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-[![XAMPP](https://img.shields.io/badge/-XAMPP-FC5C5C?style=flat&logo=xampp&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-[![cPanel](https://img.shields.io/badge/-cPanel-0062F5?style=flat&logo=cpanel&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-[![Plesk](https://img.shields.io/badge/-Plesk-0062F5?style=flat&logo=plesk&logoColor=white&link=https://github.com/nsandr3s)](https://github.com/nsandr3s)
-
-## Aprendiendo Actualmente
 Estoy ampliando mis conocimientos en las siguientes áreas:
 - 🚀 **Patrones de Diseño y Arquitecturas:** Enfocado en mejorar mis habilidades en diseño de software y arquitecturas eficientes.
 - 🐳 **Docker:** Aprendiendo sobre contenedores y orquestación para mejorar la gestión de entornos y despliegues.
 - ☁️ **Amazon Web Services (AWS):** Explorando servicios en la nube para implementar y gestionar soluciones escalables.
 
+## Mi Stack Tecnológico
+<img src="https://skillicons.dev/icons?i=php,laravel,jquery,js,python,java,mysql,postgresql,mongodb,git,github,figma,wordpress,postman,idea,pycharm,vscode,notion" />
 
+## Estadísticas de GitHub
+<p align="center">
+  <img alt="GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=nsandr3s&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
+  <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsandr3s&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
+</p>
 
 ## Contáctame
 Si tienes alguna pregunta, idea o posible colaboración en mente, no dudes en ponerte en contacto:
