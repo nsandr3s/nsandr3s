@@ -10,8 +10,9 @@ Estoy ampliando mis conocimientos en las siguientes áreas:
 
 ## Estadísticas de GitHub
 ![nsandr3s's Stats](https://github-readme-stats.vercel.app/api?username=nsandr3s&theme=onedark&show_icons=true&hide_border=false&count_private=true)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![nsandr3s's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsandr3s&theme=onedark&show_icons=true&hide_border=false&layout=compact)
+
 
 ## Contáctame
 Si tienes alguna pregunta, idea o posible colaboración en mente, no dudes en ponerte en contacto:
